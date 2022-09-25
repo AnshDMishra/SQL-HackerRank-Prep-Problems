@@ -1,2 +1,2 @@
 # SQL-HackerRank-Prep-Problems
-Solutions to various hacker-rank SQL problems by using MySQL syntax
+Solutions to various Hacker-Rank SQL Problems by using MySQL syntax
